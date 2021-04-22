@@ -135,7 +135,7 @@ class Aufgaben {
 		 *Aufgabe 4
 		 * 
 		 * 4.1
-		 * Geben Sie die Gesamtanzahl aller geschossenen Tore aus.
+		 * Geben Sie die Gesamtanzahl aller geschossenen Tore getrennt nach Heim- und Gasttoren aus.
 		 * 
 		 * 4.2
 		 *  Geben Sie eine Liste aller Spiele eines Vereines aus.
